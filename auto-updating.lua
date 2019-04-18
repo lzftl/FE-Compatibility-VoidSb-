@@ -1,4 +1,4 @@
-local ScriptLink = [[PASTE LINK HERE]]
+local ScriptLink = [[https://pastebin.com/raw/Ei07Gh4u]]
 
 --//Do not touch anything below this line, you may break it.
 local FeSource = nil;pcall(function()FeSource = game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/WaverlyCole/FE-Compatibility-VoidSb-/master/translate.lua")end);
